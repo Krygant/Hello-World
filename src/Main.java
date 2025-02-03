@@ -4,6 +4,7 @@ public class Main {
         int ii = 0;
         i += i;
         ii += i;
+        ii += i;
         System.out.println("Hello world!");
     }
     //коммент
